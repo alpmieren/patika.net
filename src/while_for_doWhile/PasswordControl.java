@@ -2,7 +2,7 @@ package while_for_doWhile;
 
 import java.util.Scanner;
 
-public class passwordControl {
+public class PasswordControl {
     public static void main(String[] args) {
         int password;
         boolean isPasswordSuccess= false;
